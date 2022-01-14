@@ -1,0 +1,24 @@
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\bin\Debug\Space Racer.exe.config
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\bin\Debug\Space Racer.exe
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\bin\Debug\Space Racer.pdb
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\bin\Debug\Space Racer.xml
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space_Racer.frmSpaceRacer.resources
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space_Racer.Resources.resources
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space Racer.vbproj.GenerateResource.cache
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space Racer.vbproj.CoreCompileInputs.cache
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space Racer.exe
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space Racer.xml
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space Racer.pdb
+C:\Users\ogreene\source\repos\Space Racer\Space Racer\obj\Debug\Space Racer.vbprojAssemblyReference.cache
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\bin\Debug\Space Racer.exe.config
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\bin\Debug\Space Racer.exe
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\bin\Debug\Space Racer.pdb
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\bin\Debug\Space Racer.xml
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space Racer.vbprojAssemblyReference.cache
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space_Racer.frmSpaceRacer.resources
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space_Racer.Resources.resources
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space Racer.vbproj.GenerateResource.cache
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space Racer.vbproj.CoreCompileInputs.cache
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space Racer.exe
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space Racer.xml
+C:\Users\ofgre\source\repos\Space Racer - Copy\Space Racer\obj\Debug\Space Racer.pdb
