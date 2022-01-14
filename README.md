@@ -1,2 +1,2 @@
 # Space-Racer
-Arcade-style game (Visual Basic .Net) written for a school project. 
+Arcade-style game written using Visual Basic .net for a school project. Created in Visual Studio. 
